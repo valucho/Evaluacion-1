@@ -9,7 +9,7 @@ body {
     font-family: 'Oswald',sans-serif;
     font-weight: 200;
     background-color:  #F1F1F5;
-    color: var(--color-light);
+    color: var(--color-dark);
     letter-spacing: .05rem;
 }
 
